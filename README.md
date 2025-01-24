@@ -1,18 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Amoralchik! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoralchik&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoralchik&theme=github_dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Amoralchik/Amoralchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software developer with a love for coding and problem-solving. I enjoy learning new technologies and continuously improving my skills. My interests include web development, data science, and open-source contributions.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: JavaScript, Python, PHP, Ruby
+- **Web Development**: React, Vue, Nest, Next, Express
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of my notable projects:
+
+### [foo bar](https://github.com/404)
+- **Description**: foo.
+- **Technologies**: bar.
+
+## GitHub Stats
+![Amoralchik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoralchik&show_icons=true&theme=radical)
+
+## Contact Me
+Please don't.
+
+-------
+
+I'm just having fun with prompts.
