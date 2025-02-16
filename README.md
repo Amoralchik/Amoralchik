@@ -3,12 +3,6 @@
 ## About Me
 I'm a passionate software developer with a love for coding and problem-solving. I enjoy learning new technologies and continuously improving my skills. My interests include web development, data science, and creating efficient solutions.
 
-I've been working on various projects recently:
-- 🎮 [ClickerJS](https://github.com/Amoralchik/ClickerJS) - A JavaScript-based clicker game
-- 🐘 [php-playground](https://github.com/Amoralchik/php-playground) - PHP experimentation and learning
-- 🧩 [15puzzle](https://github.com/Amoralchik/15puzzle) - A Vue.js implementation of the classic 15-puzzle game
-- 💬 [4kchat](https://github.com/Amoralchik/4kchat) - A JavaScript-based chat application
-
 ## 💻 Skills
 - **Languages**: JavaScript, Python, PHP, Ruby, TypeScript
 - **Web Development**: React, Vue, Nest, Next, Express
@@ -18,17 +12,25 @@ I've been working on various projects recently:
 ## 🚀 Featured Projects
 
 ### [php-playground](https://github.com/Amoralchik/php-playground)
-- **Description**: Experimental PHP projects and learning examples
+- **Description**: Learning examples of PHP projects
 - **Technologies**: PHP
 
-## 📊 GitHub Stats
-![Amoralchik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoralchik&show_icons=true&theme=radical)
+### [rust-playground](https://github.com/Amoralchik/rust-playground)
+- **Description**: Rust projects
+- **Technologies**: Rust
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoralchik&layout=compact&theme=radical)
+I've been working on various projects recently:
+- 🎮 [ClickerJS](https://github.com/Amoralchik/ClickerJS) - A JavaScript-based clicker game
+- 💬 [4kchat](https://github.com/Amoralchik/4kchat) - A JavaScript-based chat application
+
+## 📊 GitHub Stats
+![Amoralchik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoralchik&show_icons=true&theme=rose_pine)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoralchik&layout=compact&theme=rose_pine)
 
 ## 📫 Contact Me
 Please don't.
 
 -------
 
-I'm just having fun with prompts.
+i use WSL btw
