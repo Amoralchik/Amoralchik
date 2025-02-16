@@ -24,9 +24,12 @@ I've been working on various projects recently:
 - 💬 [4kchat](https://github.com/Amoralchik/4kchat) - A JavaScript-based chat application
 
 ## 📊 GitHub Stats
-![Amoralchik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoralchik&show_icons=true&theme=rose_pine)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoralchik&layout=compact&theme=rose_pine)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Amoralchik&show_icons=true&theme=rose_pine" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amoralchik&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
+</a>
 
 ## 📫 Contact Me
 Please don't.
